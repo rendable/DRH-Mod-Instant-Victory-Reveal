@@ -4,15 +4,12 @@ I no longer really play the game, so ongoing updates and fixes are unlikely.
 
 # Instant Victory Reveal
 
-Fast-forwards victory XP, kill counters and short reveal delays without changing rewards.
-
 <!-- drh:show -->
 Fast-forwards victory XP, kill counters and short reveal delays without changing rewards.
-<!-- /drh:show -->
-
 - Fast-forwards XP, team XP, kill-count, treasure and booster reveal steps.
 - Keeps normal loot controls and the separate trophy presentation.
 - Does not change earned rewards or automatically leave the results screen.
+<!-- /drh:show -->
 
 ## Requirements
 
