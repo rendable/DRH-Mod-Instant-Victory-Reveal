@@ -1,4 +1,4 @@
-package mods.instant_victory;
+package mods.instant_victory_reveal;
 
 import mods.api.Context;
 import mods.api.Mod;
